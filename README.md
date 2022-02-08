@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @OussamaEssakani
+- 👀 I'm interested in programing
+- 🌱 I'm currently learning python language
+- 💞️ I’m looking to collaborate on building a bright future
+- 📫 You can reach me via my phone number : +212694865793
